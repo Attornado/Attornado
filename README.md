@@ -44,8 +44,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [DNN-HMM](https://github.com/MattiaLimone/dnn-hmm) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/dnn-hmm?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=yellow)|
-| [protein-reconstruction](https://github.com/Attornado/protein-reconstruction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![PyG](https://img.shields.io/badge/PyG-black?style=flat&logo=PyG&logoColor=blue) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=yellow)|
+| [DNN-HMM](https://github.com/MattiaLimone/dnn-hmm) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/dnn-hmm?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
+| [protein-reconstruction](https://github.com/Attornado/protein-reconstruction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | [![PyTorch]][PyTorch-link] [![PyG]][PyG-link] [![Graphein]][Graphein-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
 | [Bert Question-Answering](https://github.com/drkostas/Bert-Question-Answering) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Accident Severity Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
 | [Hybrid Girvan Newman](https://github.com/drkostas/HGN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
@@ -113,7 +113,6 @@ My Github Stats
 [PyTorch-link]: https://pytorch.org/
 [PyG]: https://img.shields.io/badge/PyG-black?style=flat&logo=PyG&logoColor=blue
 [PyG-link]: https://pytorch-geometric.readthedocs.io/en/latest/
-[OpenCV]: https://img.shields.io/badge/OpenCV-black?style=flat&logo=GraphQL&logoColor=purple
 [Graphein-link]: https://graphein.ai/
 [Pandas]: https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=yellow
 [Pandas-link]: https://pandas.pydata.org/
