@@ -56,8 +56,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | [![Ethereum]][Ethereum-link] [![Solidity]][Solidity-link] [![MongoDB]][MongoDB-link] [![Pandas]][Pandas-link] [![IPFS]][IPFS-link] |
-| [ECVT: Edge-Contraction Visualization Tool](https://github.com/Attornado/edge-contraction-visualization-tool) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | [![NetworkX]][NetworkX-link] [![Dash]][Dash-link] [![Plotly]][Plotly-link] [![Pandas]][Pandas-link] |
+| [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | [![Ethereum]][Ethereum-link] [![Solidity]][Solidity-link] [![MongoDB]][MongoDB-link] [![Pandas]][Pandas-link] [![IPFS]][IPFS-link] [![Bootstrap]][Bootstrap-link] [![JQuery]][JQuery-link]|
+| [ECVT: Edge-Contraction Visualization Tool](https://github.com/Attornado/edge-contraction-visualization-tool) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | [![NetworkX]][NetworkX-link] [![Dash]][Dash-link] [![Plotly]][Plotly-link] [![Pandas]][Pandas-link] [![Bootstrap]][Bootstrap-link]|
 
 </td>
 </tr> </table>
@@ -109,3 +109,7 @@ My Github Stats
 [IPFS-link]: https://ipfs.tech/
 [NetworkX]: https://img.shields.io/badge/NetworkX-black?style=flat&logo=ONNX&logoColor=orange
 [NetworkX-link]: https://networkx.org/
+[JQuery]: https://img.shields.io/badge/JQuery-black?style=flat&logo=jquery&logoColor=azure
+[JQuery-link]: https://jquery.com/
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=darkpurple
+[Bootstrap-link]: https://getbootstrap.com/
