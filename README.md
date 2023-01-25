@@ -35,7 +35,7 @@
 
 * 💻 Currently working on graph generative models for bio-plausible neural architectures, graph neural networks for protein tertiary structure recontruction and image captioning for remote sensing images.
 
-* 🌱 Constantly learning new deep learning-related topics, particullary interested in deep learning for bioinformatics, bio-inspired neural models and deep reinforcement learning.
+* 🌱 Constantly learning and researching new deep learning-related topics, particullary interested in deep learning for bioinformatics, bio-inspired neural models and deep reinforcement learning.
 
 ### 🖥️ Open-Source Projects
 <table>
@@ -45,7 +45,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [DNN-HMM](https://github.com/MattiaLimone/dnn-hmm) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/dnn-hmm?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
-| [protein-reconstruction](https://github.com/Attornado/protein-reconstruction) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/protein-reconstruction?style=flat-square&labelColor=black"/> | [![PyTorch]][PyTorch-link] [![PyG]][PyG-link] [![Graphein]][Graphein-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
+| [protein-reconstruction](https://github.com/Attornado/protein-reconstruction) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/protein-reconstruction?style=flat-square&labelColor=black"/> | [![PyTorch]][PyTorch-link] [![PyG]][PyG-link] [![Graphein]][Graphein-link] [![NetworkX]][NetworkX-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
 | [Yum-or-Yuck-Butterfly-Classification](https://github.com/Attornado/yum-or-yuck-butterfly-classification) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/yum-or-yuck-butterfly-classification?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link] [![OpenCV]][OpenCV-link]|
 
 </td></tr> </table>
@@ -57,7 +57,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | [![Ethereum]][Ethereum-link] [![Solidity]][Solidity-link] [![MongoDB]][MongoDB-link] [![Pandas]][Pandas-link] [![IPFS]][IPFS-link] |
-| [Job Application Bot](https://github.com/drkostas/JobApplicationBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+| [ECVT: Edge-Contraction Visualization Tool](https://github.com/Attornado/edge-contraction-visualization-tool) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | [![NetworkX]][NetworkX-link] [![Dash]][Dash-link] [![Plotly]][Plotly-link] [![Pandas]][Pandas-link] |
 
 </td>
 </tr> </table>
@@ -107,3 +107,5 @@ My Github Stats
 [Ethereum-link]: https://ethereum.org/en/
 [IPFS]: https://img.shields.io/badge/IPFS-black?style=flat&logo=IPFS
 [IPFS-link]: https://ipfs.tech/
+[NetworkX]: https://img.shields.io/badge/NetworkX-black?style=flat&logo=ONNX&logoColor=orange
+[NetworkX-link]: https://networkx.org/
