@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently Graph Neural Network for protein recontruction, graph generative models for bio-plausible neural architectures and image captioning for remote sensing images.
+* 💻 Currently working on graph generative models for bio-plausible neural architectures, graph neural networks for protein tertiary structure recontruction, g and image captioning for remote sensing images.
 
 ### 🖥️ Open-Source Projects
 <table>
