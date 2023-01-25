@@ -113,6 +113,7 @@ My Github Stats
 [PyTorch-link]: https://pytorch.org/
 [PyG]: https://img.shields.io/badge/PyG-black?style=flat&logo=PyG&logoColor=blue
 [PyG-link]: https://pytorch-geometric.readthedocs.io/en/latest/
+[Graphein]: https://img.shields.io/badge/Graphein-black?style=flat&logo=GraphQL&logoColor=purple
 [Graphein-link]: https://graphein.ai/
 [Pandas]: https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=yellow
 [Pandas-link]: https://pandas.pydata.org/
