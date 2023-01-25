@@ -39,7 +39,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Deep Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Deep Learning </th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
