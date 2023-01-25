@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 * 💻 Currently working on graph generative models for bio-plausible neural architectures, graph neural networks for protein tertiary structure recontruction, g and image captioning for remote sensing images.
 
+* 🌱 Constantly learning new deep learning-related topics, particullary interested in bioinformatics, bio-inspired neural models and deep reinforcement learning.
+
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
