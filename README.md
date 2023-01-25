@@ -31,11 +31,11 @@
 
 * 🎓 Researching on **AI** and **Deep Learning** at [Neurone Lab](http://neuronelab.unisa.it/).
 
-* 💡 Open to collaborating on projects and innovative ideas. 
-
 * 💻 Currently working on graph generative models for bio-plausible neural architectures, graph neural networks for protein tertiary structure recontruction and image captioning for remote sensing images.
 
 * 🌱 Constantly learning and researching new deep learning-related topics, particullary interested in deep learning for bioinformatics, bio-inspired neural models and deep reinforcement learning.
+
+* 💡 Open to collaborating on projects and innovative ideas. 
 
 ### 🖥️ Open-Source Projects
 <table>
