@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>
-<a href="">
+<a href="https://github.com/Attornado/Attornado/blob/main/CVAndreaScarano2.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/andrea-terlizzi-4ba891263/">
@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 </a>
 <br/> 
 
-<!-- <a href="https://github.com/drkostas">
-    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
+<a href="https://github.com/Attornado">
+    <img src="https://github-readme-stats.vercel.app/api?username=Attornado&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula"></a>
 
 <a href="https://github.com/Attornado">
     <img src="https://github-stats-alpha.vercel.app/api?username=Attornado&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
