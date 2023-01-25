@@ -91,7 +91,7 @@ My Github Stats
 [Graphein-link]: https://graphein.ai/
 [Pandas]: https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=yellow
 [Pandas-link]: https://pandas.pydata.org/
-[Numpy]: https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy
+[Numpy]: https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=azure
 [Numpy-link]: https://numpy.org/
 [OpenCV]: https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv&logoColor=darkgreen
 [OpenCV-link]: https://opencv.org/
