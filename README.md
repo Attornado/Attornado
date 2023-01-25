@@ -46,7 +46,7 @@
 |--|--|--|
 | [DNN-HMM](https://github.com/MattiaLimone/dnn-hmm) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/dnn-hmm?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
 | [protein-reconstruction](https://github.com/Attornado/protein-reconstruction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | [![PyTorch]][PyTorch-link] [![PyG]][PyG-link] [![Graphein]][Graphein-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
-| [Yum-or-Yuck-Butterfly-Classification](https://github.com/drkostas/Bert-Question-Answering](https://github.com/Attornado/yum-or-yuck-butterfly-classification) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/https://github.com/Attornado/yum-or-yuck-butterfly-classification?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link] [![OpenCV]][OpenCV-link]|
+| [Yum-or-Yuck-Butterfly-Classification](https://github.com/Attornado/yum-or-yuck-butterfly-classification) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/https://github.com/Attornado/yum-or-yuck-butterfly-classification?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link] [![OpenCV]][OpenCV-link]|
 
 </td></tr> </table>
 
