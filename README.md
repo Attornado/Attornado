@@ -51,9 +51,9 @@
 </td></tr> </table>
 
 <table>
-<tr>Misc Projects </th></tr> 
+<tr><th>Misc Projects </th></tr>
 <tr><td>
-
+    
 |Title | Stars | Technologies|
 |--|--|--|
 | [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | [![Ethereum]][Ethereum-link] [![Solidity]][Solidity-link] [![MongoDB]][MongoDB-link] [![Pandas]][Pandas-link] [![IPFS]][IPFS-link] [![Flask]][Flask-link] [![Bootstrap]][Bootstrap-link] [![JQuery]][JQuery-link]|
