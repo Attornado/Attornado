@@ -44,11 +44,9 @@ Here are some ideas to get you started:
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 Pursuing Master Degree in Data Science & Machine Learning @ [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
 
-* 
-
-* 🎓 Researching on **AI** and **Computer Vision** @ [AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Researching on **AI** and **Deep Learning** @ [Neurone Lab]([http://neuronelab.unisa.it/](http://neuronelab.unisa.it/)).
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
