@@ -35,7 +35,7 @@
 
 * 💻 Currently working on graph generative models for bio-plausible neural architectures, graph neural networks for protein tertiary structure recontruction and image captioning for remote sensing images.
 
-* 🌱 Constantly learning new deep learning-related topics, particullary interested in bioinformatics, bio-inspired neural models and deep reinforcement learning.
+* 🌱 Constantly learning new deep learning-related topics, particullary interested in deep learning for bioinformatics, bio-inspired neural models and deep reinforcement learning.
 
 ### 🖥️ Open-Source Projects
 <table>
@@ -56,7 +56,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+| [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | [![Ethereum]][Ethereum-link] [![Solidity]][Solidity-link] [![MongoDB]][MongoDB-link] [![Pandas]][Pandas-link] |
 | [Job Application Bot](https://github.com/drkostas/JobApplicationBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
 
 </td>
@@ -101,3 +101,9 @@ My Github Stats
 [Plotly-link]: https://plotly.com/
 [Dash]: https://img.shields.io/badge/Dash-black?style=flat&logo=plotly&logoColor=blue
 [Dash-link]: https://dash.plotly.com/
+[Solidity]: https://img.shields.io/badge/Solidity-black?style=flat&logo=solidity
+[Solidity-link]: https://soliditylang.org/
+[Ethereum]: https://img.shields.io/badge/Ethereum-black?style=flat&logo=Ethereum
+[Ethereum-link]: https://ethereum.org/en/
+[IPFS]: https://img.shields.io/badge/IPFS-black?style=flat&logo=IPFS
+[IPFS-link: https://ipfs.tech/
