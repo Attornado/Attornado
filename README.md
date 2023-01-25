@@ -39,12 +39,12 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Deep Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [DNN-HMM](https://github.com/MattiaLimone/dnn-hmm) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/dnn-hmm?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Bert Question-Answering](https://github.com/drkostas/Bert-Question-Answering) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
 | [Accident Severity Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
