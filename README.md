@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+<a href="https://github.com/Attornado">
 </a>
 <br/>
 
@@ -54,6 +52,8 @@ Here are some ideas to get you started:
 </p>
 
 * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+
+* 
 
 * 🎓 Researching on **AI** and **Computer Vision** @ [AICIP Lab](https://aicip.github.io/research.htm).
 
