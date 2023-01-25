@@ -27,9 +27,9 @@
 
 </p>
 
-* 📖 Pursuing Master Degree in Data Science & Machine Learning @ [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
+* 📖 Pursuing Master Degree in Data Science & Machine Learning @[University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
 
-* 🎓 Researching on **AI** and **Deep Learning** @ [Neurone Lab](http://neuronelab.unisa.it/).
+* 🎓 Researching on **AI** and **Deep Learning** @[Neurone Lab](http://neuronelab.unisa.it/).
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
