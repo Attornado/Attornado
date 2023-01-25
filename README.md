@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 * 📖 Pursuing Master Degree in Data Science & Machine Learning @ [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
 
-* 🎓 Researching on **AI** and **Deep Learning** @ [Neurone Lab]([http://neuronelab.unisa.it/](http://neuronelab.unisa.it/)).
+* 🎓 Researching on **AI** and **Deep Learning** @ [Neurone Lab](http://neuronelab.unisa.it/).
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
