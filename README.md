@@ -56,7 +56,7 @@
     
 |Title | Stars | Technologies|
 |--|--|--|
-| [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | [[![Solidity]][Solidity-link] [![MongoDB]][MongoDB-link] [![Pandas]][Pandas-link] [![IPFS]][IPFS-link] [![Flask]][Flask-link] [![Bootstrap]][Bootstrap-link] [![JQuery]][JQuery-link]|
+| [De-Trains](https://github.com/Attornado/de-trains) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/de-trains?style=flat-square&labelColor=black"/> | [![Ethereum]][Ethereum-link] [![Solidity]][Solidity-link] [![MongoDB]][MongoDB-link] [![Pandas]][Pandas-link] [![IPFS]][IPFS-link] [![Flask]][Flask-link] [![Bootstrap]][Bootstrap-link] [![JQuery]][JQuery-link]|
 | [ECVT: Edge-Contraction Visualization Tool](https://github.com/Attornado/edge-contraction-visualization-tool) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/edge-contraction-visualization-tool?style=flat-square&labelColor=black"/> | [![NetworkX]][NetworkX-link] [![Dash]][Dash-link] [![Plotly]][Plotly-link] [![Pandas]][Pandas-link] [![Bootstrap]][Bootstrap-link] [![JQuery]][JQuery-link] [![Flask]][Flask-link]|
 
 </td>
