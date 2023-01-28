@@ -16,7 +16,7 @@
 <a href="mailto:andrea.terlizzi@mail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+<a href='https://www.researchgate.net/profile/Andrea-Terlizzi-2' target="_blank">
     <img alt='ResearchGate' src='https://img.shields.io/badge/ResearchGate-gray?style=flat&logo=researchgate'>
 </a>
 <br/> 
