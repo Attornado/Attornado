@@ -33,7 +33,7 @@
 
 * 💻 Currently working on graph generative models for bio-plausible neural architectures, graph neural networks for protein tertiary structure recontruction and image captioning for remote sensing images.
 
-* 🌱 Constantly learning and researching new deep learning-related topics, particullary interested in deep learning for bioinformatics, bio-inspired neural models and deep reinforcement learning.
+* 🌱 Constantly learning and researching new deep learning-related topics, especially interested in deep learning for bioinformatics, bio-inspired neural models and deep reinforcement learning.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
