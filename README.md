@@ -124,5 +124,3 @@ My Github Stats
 [SciPy-link]: https://scipy.org/
 [Web3Py]: https://img.shields.io/badge/web3.py-black?style=flat&logo=web3.js&logoColor=yellow
 [Web3Py-link]: https://web3py.readthedocs.io/en/v5/
-[ORCID]: https://img.shields.io/badge/ORCID-gray?style=flat&logo=orcid
-[ORCID-link]: 
