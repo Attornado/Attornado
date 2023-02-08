@@ -19,6 +19,9 @@
 <a href='https://www.researchgate.net/profile/Andrea-Terlizzi-2' target="_blank">
     <img alt='ResearchGate' src='https://img.shields.io/badge/ResearchGate-gray?style=flat&logo=researchgate'>
 </a>
+<a href="https://orcid.org/0000-0002-4963-8596">
+    <img src="https://img.shields.io/badge/ORCID-gray?style=flat&logo=orcid" alt="ORCID" />
+</a>
 <br/> 
 
 <a href="https://github.com/Attornado">
@@ -121,3 +124,5 @@ My Github Stats
 [SciPy-link]: https://scipy.org/
 [Web3Py]: https://img.shields.io/badge/web3.py-black?style=flat&logo=web3.js&logoColor=yellow
 [Web3Py-link]: https://web3py.readthedocs.io/en/v5/
+[ORCID]: https://img.shields.io/badge/ORCID-gray?style=flat&logo=orcid
+[ORCID-link]: 
