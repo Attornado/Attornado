@@ -70,10 +70,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attornado&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Attornado&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Attornado&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attornado&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Attornado&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Attornado&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attornado&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
 
 
 <br>
