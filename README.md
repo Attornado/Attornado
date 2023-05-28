@@ -7,7 +7,7 @@
 <!-- <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a> -->
-<a href="https://github.com/Attornado/Attornado/blob/main/CVAndreaScarano2.pdf">
+<a href="https://github.com/Attornado/Attornado/blob/main/CVAndreaScarano5.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/andrea-terlizzi-4ba891263/">
