@@ -19,6 +19,9 @@
 <a href='https://www.researchgate.net/profile/Andrea-Terlizzi-2' target="_blank">
     <img alt='ResearchGate' src='https://img.shields.io/badge/ResearchGate-gray?style=flat&logo=researchgate'>
 </a>
+<a href='https://scholar.google.com/citations?user=mE_NHWMAAAAJ&hl=it' target="_blank">
+    <img alt='ResearchGate' src='https://img.shields.io/badge/GoogleScholar-gray?style=flat&logo=researchgate'>
+</a>
 <a href="https://orcid.org/0000-0002-4963-8596">
     <img src="https://img.shields.io/badge/ORCID-gray?style=flat&logo=orcid" alt="ORCID" />
 </a>
