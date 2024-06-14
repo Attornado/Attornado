@@ -33,13 +33,13 @@
 
 </p>
 
-* 📖 Pursuing Master Degree in Data Science & Machine Learning at [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
+* 📖 Computer Science MSc in Machine Learning at [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
 
-* 🎓 Researching on **AI** and **Deep Learning** at [Neurone Lab](http://neuronelab.unisa.it/).
+* 🎓 Researching on **Neuromorphic** and **Bio-Inspired Deep Learning** [Neurone Lab](http://neuronelab.unisa.it/).
 
-* 💻 Currently working on graph generative models for bio-plausible neural architectures, graph neural networks for protein tertiary structure recontruction and image captioning for remote sensing images.
+* 💻 Currently working on bio-inspired neural architectures, reservoir and neuromorphic neural computing, and connectomic deep learning.
 
-* 🌱 Constantly learning and researching new deep learning-related topics, especially interested in deep learning for bioinformatics, bio-inspired neural models and deep reinforcement learning.
+* 🌱 Constantly learning and researching new deep learning-related topics, particularly interested in deep learning for bioinformatics, bio-inspired and neuromorphic models, computational neuroscience, and deep reinforcement learning.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
