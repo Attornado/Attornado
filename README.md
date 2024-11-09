@@ -33,9 +33,9 @@
 
 </p>
 
-* 📖 Computer Science MSc in Machine Learning at [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
+* 🎓 Ph.D. Student researching **Neuromorphic** and **Bio-Inspired Deep Learning** [Neurone Lab](http://neuronelab.unisa.it/).
 
-* 🎓 Researching on **Neuromorphic** and **Bio-Inspired Deep Learning** [Neurone Lab](http://neuronelab.unisa.it/).
+* 📖 Computer Science MSc in Machine Learning at [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
 
 * 💻 Currently working on bio-inspired neural architectures, reservoir and neuromorphic neural computing, and connectomic deep learning.
 
