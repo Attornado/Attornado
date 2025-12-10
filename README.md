@@ -37,7 +37,7 @@
 
 * 📖 Computer Science MSc in Machine Learning at [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
 
-* 💻 Currently working on bio-inspired neural architectures, reservoir and neuromorphic neural computing, and connectomic deep learning.
+* 💻 Currently working on bio-inspired neural architectures, reservoir computing, and connectomic deep learning.
 
 * 🌱 Constantly learning and researching new deep learning-related topics, particularly interested in deep learning for bioinformatics, bio-inspired and neuromorphic models, computational neuroscience, and deep reinforcement learning.
 
