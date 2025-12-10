@@ -39,7 +39,7 @@
 
 * 💻 Currently working on bio-inspired neural architectures, reservoir computing, and connectomic deep learning.
 
-* 🌱 Constantly learning and researching new deep learning-related topics, particularly interested in deep learning for bioinformatics, bio-inspired and neuromorphic models, computational neuroscience, and deep reinforcement learning.
+* 🌱 Constantly learning and researching new deep learning-related topics, particularly interested in brain-inspired models, computational neuroscience, and dynamic computation in deep learning.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
