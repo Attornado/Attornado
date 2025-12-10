@@ -33,7 +33,7 @@
 
 </p>
 
-* 🎓 Ph.D. Student researching **NeuroAI** and **Bio-Inspired Deep Learning** [Neurone Lab](http://neuronelab.unisa.it/).
+* 🎓 Ph.D. Student researching **NeuroAI** and **Brain-Inspired Deep Learning** [Neurone Lab](http://neuronelab.unisa.it/).
 
 * 📖 Computer Science MSc in Machine Learning at [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
 
